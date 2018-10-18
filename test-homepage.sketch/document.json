@@ -1,7 +1,153 @@
 {
   "layerStyles" : {
     "objects" : [
-
+      {
+        "do_objectID" : "F2C5D407-2A5F-4A6D-A988-717AF87BE988",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "position" : 1,
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "borderOptions" : {
+            "lineJoinStyle" : 0,
+            "_class" : "borderOptions",
+            "isEnabled" : false,
+            "lineCapStyle" : 0,
+            "dashPattern" : [
+              6
+            ]
+          },
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.84699999999999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.84699999999999998,
+                "green" : 0.84699999999999998
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : false
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Table cell"
+      },
+      {
+        "do_objectID" : "8BBFEA92-8BB9-4221-84AE-CD8D0BBE3F05",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 2,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "position" : 1,
+              "color" : {
+                "red" : 0.8666666666666667,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.8666666666666667,
+                "green" : 0.8666666666666667
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.84699999999999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.84699999999999998,
+                "green" : 0.84699999999999998
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : false
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Table Row"
+      },
+      {
+        "do_objectID" : "EB587D30-B0C4-4D79-BE23-45D84D38FA79",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 4,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "position" : 1,
+              "color" : {
+                "red" : 0.27028966958407857,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1044566182592829,
+                "green" : 0.81406781462585032
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.84699999999999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.84699999999999998,
+                "green" : 0.84699999999999998
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : false
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Table"
+      }
     ],
     "_class" : "sharedStyleContainer"
   },
